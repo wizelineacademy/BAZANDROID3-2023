@@ -17,6 +17,11 @@ Estos son los temas que serán abordados durante la primer sesión:
 
 ## :tv: [Enlace de la presentación](https://docs.google.com/presentation/d/1fGypFYlJieekDXMVbr52vR_lP9rT0o-1yiNJ3g9xkno/edit?usp=sharing)
 
+# :computer:  Actividades 
+
+Realiza los siguentes ejercicios, como repaso de la sesión:
+
+[Ejercicios](https://github.com/luismario-wize/week2-poo-session1)
 
 # :books: Para aprender más
 

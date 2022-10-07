@@ -24,6 +24,12 @@ Estos son los temas que serán abordados durante la segunda sesión:
 * [Clases anidadas e internas](https://docs.google.com/presentation/d/1klggIbLop-3nTU64DQPwdQg36hZnXC-2Y1G5Ugke_yk/edit#slide=id.p)
 
 
+# :computer:  Actividades 
+
+Realiza los siguentes ejercicios, como repaso de la sesión:
+
+[Ejercicios](https://github.com/luismario-wize/week2-poo-session2)
+
 ## Author
 
 * [@Luis Mario Salas](https://github.com/luismario-wize)
