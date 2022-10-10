@@ -5,7 +5,7 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 
 [Liga Acceso Telegram grupal](https://t.me/+Ly8UcGVIcUoxODBh) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](https://github.com/wizelineacademy/BAZANDROID2-2022/blob/main/BAZGpo2iOS.png)
+![Calendario](https://github.com/wizelineacademy/BAZANDROID2-2022/blob/main/Android2.png)
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
