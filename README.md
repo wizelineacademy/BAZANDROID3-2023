@@ -15,6 +15,10 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09) en caso que no puedan presentarse
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09)
 
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
+
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
 - Lunes y Miércoles: 4pm en oficinas de Wizeline
@@ -74,7 +78,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 - Para poder presentar tu proyecto final, debes contar con un mínimo de 6 mentorías on-demand
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
 
-[Aqui encontrarás](https://github.com/wizelineacademy/baz-android-course) las instrucciones para completar tu proyecto final.
+[Aqui](https://github.com/wizelineacademy/baz-android-course) encontrarás las instrucciones para completar tu proyecto final.
 
 Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
