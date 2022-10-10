@@ -75,7 +75,7 @@ En [esta liga] encontrarás todas las grabaciones y presentaciones del curso.
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
-- Para poder presentar tu proyecto final, debes contar con un mínimo de 6 mentorías on-demand
+- Para poder presentar tu proyecto final, debes contar con un **mínimo de 6 mentorías on-demand**.
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
 
 [Aqui](https://github.com/wizelineacademy/baz-android-course) encontrarás las instrucciones para completar tu proyecto final.
