@@ -3,20 +3,21 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de entrenamiento.
 
+[Liga Acceso Telegram grupal](https://t.me/+Ly8UcGVIcUoxODBh) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
+
+[Calendario]
+
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
 
-[Calendario]
-[Liga Acceso Telegram grupal]
-
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Martes y Jueves: 2pm en oficinas de Wizeline - [Liga zoom] en caso que no puedan presentarse
-- Viernes: 9am en línea por [Zoom]
+- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09) en caso que no puedan presentarse
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09)
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
-- Martes y Jueves: 4pm en oficinas de Wizeline
+- Lunes y Miércoles: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
 - Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
@@ -69,7 +70,9 @@ En [esta liga] encontrarás todas las grabaciones y presentaciones del curso.
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de 6 mentorías on-demand
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
 
 [Aqui encontrarás](https://github.com/wizelineacademy/baz-android-course) las instrucciones para completar tu proyecto final.
 
@@ -92,6 +95,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dar
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAxWaE1BA) al final de tu mentoría.
 
 - [Diego Parra Robayo](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)
 - [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
