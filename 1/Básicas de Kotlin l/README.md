@@ -15,8 +15,6 @@ Temas que se abordan en la primera sesion de este fase 1 del entrenamiento
 - Null Safety
 
 ## Grabaciones y Presentaciones
-- [Martes 30 Ago - Kotlin basics I](https://drive.google.com/file/d/1-UXAOqdHNJYyd6G69zTV43afh0Af7nTk/view?usp=sharing)
-- 📺 [Grabacion Martes 30 Ago](https://drive.google.com/file/d/1x75tj-x48AgSRSu267FwMgBNDjje6oO2/view?usp=sharing)
 
 # :computer:  Actividades 
 
