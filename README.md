@@ -8,10 +8,10 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 ![Calendario](https://github.com/wizelineacademy/BAZANDROID2-2022/blob/main/Android2.png)
 
 # II. Información general del entrenamiento
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
 
 **Sesiones en Vivo** 
-- Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 - Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09) en caso que no puedan presentarse
 - Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09)
 
@@ -20,17 +20,17 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
 
 **Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
+- Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
 - Lunes y Miércoles: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final Wizeline (Capstone Project)**
-- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
+- Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
 Los temas estan divididos en 6 semanas, 3 sesiones por semana. 
@@ -74,13 +74,13 @@ En [esta liga] encontrarás todas las grabaciones y presentaciones del curso.
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
 - Para poder presentar tu proyecto final, debes contar con un **mínimo de 6 mentorías on-demand**.
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
 
-[Aqui](https://github.com/wizelineacademy/baz-android-course) encontrarás las instrucciones para completar tu proyecto final.
+[Aquí](https://github.com/wizelineacademy/baz-android-course) encontrarás las instrucciones para completar tu proyecto final.
 
-Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 ![Asignacion Mentores]
 
@@ -96,9 +96,9 @@ Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dar
 | Edgar Correa | edgar.correa@wizeline.com | ECorreaWize |
 
 # V. Agenda tu mentoria 📆
-Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+Si deseas tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
-Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAxWaE1BA) al final de tu mentoría.
 
 - [Diego Parra Robayo](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)
@@ -117,6 +117,6 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAx
 
 
 # VII. Contacto Wizeline Academy
-Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
+Si tienes alguna duda sobre el programa, logística, accesos, etc., por favor contacta al equipo de Wizeline Academy
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
