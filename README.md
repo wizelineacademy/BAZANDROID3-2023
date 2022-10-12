@@ -69,7 +69,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
-En [esta liga] encontrarás todas las grabaciones y presentaciones del curso.
+En [esta liga](/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 
 # IV. Proyecto Final (Capstone Project)
