@@ -82,7 +82,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-![Asignacion Mentores]
+[Asignacion Mentores]
 
 | Nombre | Correo electrónico | Github |
 | ------ | ------------------ | ------ |
@@ -94,6 +94,26 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | Mario Salas Cardenas | luis.salas@wizeline.com | luismario-wize |
 | Alfredo Arrieta | alfredo.arrieta@wizeline.com | mrarrieta |
 | Edgar Correa | edgar.correa@wizeline.com | ECorreaWize |
+
+| ID Empleado | Nombre                              | Mentor |
+| ----------: | :---------------------------------- | :-------------------------- |
+| 1053064     | Alan Rosas                          | Diego Parra                 |
+| 1034475     | Aldo Cortés                         | Diego Parra                 |
+| 1058705     | Antonio Villegas                    | Fabián Jiménez              |
+| 1068181     | Cleydi González                     | Fabián Jiménez              |
+| 1029736     | David de Jesús Vázquez              | Diego Medina                |
+| 1031615     | Edwin Rueda                         | Diego Medina                |
+| 1039104     | Francisco García                    | Cecilia Dávila              |
+| 1037219     | Gabriel Morales                     | Cecilia Dávila              |
+| 958879      | Joaquín Cárdenas                    | Mario Salas                 |
+| 1068734     | José Flores                         | Mario Salas                 |
+| 1027365     | José Fuentes                        | Alfredo Arrieta             |
+| 1029731     | Lorena Alcántara                    | Alfredo Arrieta             |
+| 1027774     | Luis Esteban Fernández              | Edgar Correa                |
+| 1060891     | Óscar Sánchez                       | Edgar Correa                |
+| 1053689     | Stuart García                       | Antonio López               |
+| 0000000     | Jaime García                        | Antonio López               |
+
 
 # V. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
