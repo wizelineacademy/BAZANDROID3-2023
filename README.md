@@ -107,7 +107,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | 1037219     | Gabriel Morales                     | Cecilia Dávila              |
 | 958879      | Joaquín Cárdenas                    | Mario Salas                 |
 | 1068734     | José Flores                         | Mario Salas                 |
-| 1027365     | José Fuentes                        | Alfredo Arrieta             |
+| 1027365     | Josué Fuentes                       | Alfredo Arrieta             |
 | 1029731     | Lorena Alcántara                    | Alfredo Arrieta             |
 | 1027774     | Luis Esteban Fernández              | Edgar Correa                |
 | 1060891     | Óscar Sánchez                       | Edgar Correa                |
