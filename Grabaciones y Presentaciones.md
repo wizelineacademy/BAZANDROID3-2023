@@ -8,3 +8,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Miércoles 12 Oct](https://drive.google.com/file/d/1YU-FgLAL6FSHmcLlgxlDHbXhBN-iU3gM/view?usp=sharing)
 - [Viernes 14 Oct - Kotlin basics III](https://drive.google.com/file/d/103MTNIR2uhxMVX1sUdPai5vUDAgvKD0V/view?usp=sharing)
 - 📺 [Grabacion Viernes 14 Oct](https://drive.google.com/file/d/1VCC1q972Z7KpcyTha4DYnUSz-raGemNA/view?usp=sharing)
+
+# Semana 2
+- [Lunes 17 Oct - Object oriented programming I](https://drive.google.com/file/d/1YGY3zd17ANsZLl_FYKOEVYzi6yBQ4Ewv/view?usp=sharing)
+- 📺 [Grabacion Lunes 17 Oct](https://drive.google.com/file/d/105b-daOL58kTf5dQpB-eb5qat-Y9qpQ_/view?usp=sharing)
