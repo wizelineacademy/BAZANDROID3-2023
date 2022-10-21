@@ -13,6 +13,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 17 Oct - Object oriented programming I](https://drive.google.com/file/d/1YGY3zd17ANsZLl_FYKOEVYzi6yBQ4Ewv/view?usp=sharing)
 - 📺 [Grabacion Lunes 17 Oct](https://drive.google.com/file/d/105b-daOL58kTf5dQpB-eb5qat-Y9qpQ_/view?usp=sharing)
 - [Miércoles 19 Oct - Object oriented programming II](https://drive.google.com/file/d/1ESmk3-jTHO5NOd7s6yMDBjLfENSuVAva/view?usp=sharing)
-- 📺 [Grabacion Miércoles 19 Oct]()
+- 📺 [Grabacion Miércoles 19 Oct](https://drive.google.com/file/d/1yO2GV3SAw8nNJYKuWtZLarXmgWwbdeG5/view?usp=sharing)
 - [Viernes 21 Oct - Object oriented programming III](https://drive.google.com/file/d/1Ay8G5otOTSvofUoo8UH9afhhVAfhzruS/view?usp=sharing)
 - 📺 [Grabacion Viernes 21 Oct]()
