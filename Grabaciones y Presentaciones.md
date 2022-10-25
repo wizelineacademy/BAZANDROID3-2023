@@ -18,9 +18,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 21 Oct](https://drive.google.com/file/d/1o9zw-0yL_OLLDFlYGhBVK9dYISue5R5f/view?usp=sharing)
 
 # Semana 3
-- [Lunes 24 Oct - Object oriented programming I](https://drive.google.com/file/d/13nxpdrAv_UhqJGnZF67ubgSSIEqX5BgZ/view?usp=sharing)
+- [Lunes 24 Oct - Principios Solid](https://drive.google.com/file/d/13nxpdrAv_UhqJGnZF67ubgSSIEqX5BgZ/view?usp=sharing)
 - 📺 [Grabacion Lunes 24 Oct]()
-- [Miércoles 26 Oct - Object oriented programming II]()
+- [Miércoles 26 Oct - ]()
 - 📺 [Grabacion Miércoles 26 Oct]()
-- [Viernes 28 Oct - Object oriented programming III]()
+- [Viernes 28 Oct - ]()
 - 📺 [Grabacion Viernes 28 Oct]()
