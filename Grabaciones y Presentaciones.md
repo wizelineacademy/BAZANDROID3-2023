@@ -19,7 +19,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Lunes 24 Oct - Principios SOLID](https://drive.google.com/file/d/13nxpdrAv_UhqJGnZF67ubgSSIEqX5BgZ/view?usp=sharing)
-- 📺 [Grabacion Lunes 24 Oct]()
+- 📺 [Grabacion Lunes 24 Oct](https://drive.google.com/file/d/1dKui03Tj4PqnxMSkIwtNRLrThyeUuYmn/view?usp=sharing)
 - [Miércoles 26 Oct - ]()
 - 📺 [Grabacion Miércoles 26 Oct]()
 - [Viernes 28 Oct - ]()
