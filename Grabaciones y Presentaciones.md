@@ -20,7 +20,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 3
 - [Lunes 24 Oct - Principios SOLID](https://drive.google.com/file/d/13nxpdrAv_UhqJGnZF67ubgSSIEqX5BgZ/view?usp=sharing)
 - 📺 [Grabacion Lunes 24 Oct](https://drive.google.com/file/d/1dKui03Tj4PqnxMSkIwtNRLrThyeUuYmn/view?usp=sharing)
-- [Miércoles 26 Oct - ]()
+- [Miércoles 26 Oct - ](https://drive.google.com/file/d/1FzqvoGtJkqr_MsDy40ahCvQxxVkJFSu4/view?usp=sharing)
 - 📺 [Grabacion Miércoles 26 Oct]()
-- [Viernes 28 Oct - ]()
+- [Viernes 28 Oct - Pruebas Unitarias](https://drive.google.com/file/d/14PkeDrg_Dm3bwqqbLieQF7ZNTCt2scbl/view?usp=sharing)
 - 📺 [Grabacion Viernes 28 Oct]()
