@@ -48,12 +48,13 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Programación Orientada a Objetos III](/2/Programacion_Orientada_a_Objetos_3)
 
 ### Semana 3
-   1. [Introducción a Android Studio](/3/Android%20Studio)
-   2. [Git y Polimorfismo](/3/Manejo%20de%20Git)
-   3. [Principios SOLID](/3/Principios%20SOLID%20)
-
+   1. [Principios SOLID](/3/Principios%20SOLID%20)
+   2. [Introducción a Android Studio](/3/Android%20Studio)
+   3. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
+   
+  
 ### Semana 4
-   1. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
+   1. 
    2. [Mobile App Design: MVVM](/4/MVVM)
    3. [Viewbinding vs Databinding](/4/ViewBindingVsDataBinding)
 
