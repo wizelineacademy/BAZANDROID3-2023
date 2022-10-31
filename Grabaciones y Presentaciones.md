@@ -22,5 +22,13 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Lunes 24 Oct](https://drive.google.com/file/d/1dKui03Tj4PqnxMSkIwtNRLrThyeUuYmn/view?usp=sharing)
 - [Miércoles 26 Oct - Introducción a AS Pruebas Unitarias](https://drive.google.com/file/d/14PkeDrg_Dm3bwqqbLieQF7ZNTCt2scbl/view?usp=sharing)
 - 📺 [Grabacion Miércoles 26 Oct](https://drive.google.com/file/d/1aoyLnQcQfXnA3cAWG2LNIpTuNE3mXof2/view?usp=sharing)
-- [Viernes 28 Oct - Consumo de Serivicios REST usando Retrofit]()
+- [Viernes 28 Oct - Consumo de Serivicios REST usando Retrofit](https://drive.google.com/file/d/1ho5jHTzVovDJ4Mj3t69K9i0xRrGd-32f/view?usp=sharing)
 - 📺 [Grabacion Viernes 28 Oct](https://drive.google.com/file/d/1avdq3mph2vWk10lAF_xl65CmWNfU7LUm/view?usp=sharing)
+
+# Semana 4
+- [Lunes 31 Oct - ]()
+- 📺 [Grabacion Lunes 24 Oct]()
+- [Miércoles 2 Nov - ]()
+- 📺 [Grabacion Miércoles 2 Nov]()
+- [Viernes 4 Nov - ]()
+- 📺 [Grabacion Viernes 4 Nov]()
