@@ -23,4 +23,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 26 Oct - Introducción a AS Pruebas Unitarias](https://drive.google.com/file/d/14PkeDrg_Dm3bwqqbLieQF7ZNTCt2scbl/view?usp=sharing)
 - 📺 [Grabacion Miércoles 26 Oct](https://drive.google.com/file/d/1aoyLnQcQfXnA3cAWG2LNIpTuNE3mXof2/view?usp=sharing)
 - [Viernes 28 Oct - ]()
-- 📺 [Grabacion Viernes 28 Oct]()
+- 📺 [Grabacion Viernes 28 Oct](https://drive.google.com/file/d/1avdq3mph2vWk10lAF_xl65CmWNfU7LUm/view?usp=sharing)
