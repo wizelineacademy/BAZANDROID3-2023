@@ -17,7 +17,7 @@ Entre la comunidad Android siempre ha habido debate entre qué arquitectura es l
 
 # :books: Para aprender mas 
 
-[Repositorio de Ejemplo Retrofit, Room y MVVM](https://github.com/an-lopez/retrofit-examples)
-[RETHINKING USER ACTIONS TO SHAPE A BETTER UNIDIRECTIONAL DATA FLOW](https://www.droidcon.com/2022/05/04/rethinking-user-actions-to-shape-a-better-unidirectional-data-flow/#:~:text=Unidirectional%20Data%20Flow%20exposes%20the,new%20UI%20state%20is%20produced.)
-[Understanding Dependency Injection](https://www.codeguru.com/dotnet/understanding-dependency-injection/)
-[The Imposter's Guide To Dependency Injection](https://dev.to/adammc331/the-imposters-guide-to-dependency-injection-1eak)
+- [Repositorio de Ejemplo Retrofit, Room y MVVM](https://github.com/an-lopez/retrofit-examples)
+- [RETHINKING USER ACTIONS TO SHAPE A BETTER UNIDIRECTIONAL DATA FLOW](https://www.droidcon.com/2022/05/04/rethinking-user-actions-to-shape-a-better-unidirectional-data-flow/#:~:text=Unidirectional%20Data%20Flow%20exposes%20the,new%20UI%20state%20is%20produced.)
+- [Understanding Dependency Injection](https://www.codeguru.com/dotnet/understanding-dependency-injection/)
+- [The Imposter's Guide To Dependency Injection](https://dev.to/adammc331/the-imposters-guide-to-dependency-injection-1eak)
