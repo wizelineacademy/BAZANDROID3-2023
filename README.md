@@ -87,7 +87,6 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | Nombre | Correo electrónico | Github |
 | ------ | ------------------ | ------ |
-| Antonio Lopez Higuera | antonio.lopez@wizeline.com | an-lopez |
 | Diego Parra Robayo | diego.parra@wizeline.com | diego-parra-robayo |
 | Fabian Jiménez Villegas | fabian.jimenez@wizeline.com | Fabian-jv |
 | Diego Medina Padilla | diego.medina@wizeline.com | DiegoMedinaP |
@@ -95,6 +94,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | Mario Salas Cardenas | luis.salas@wizeline.com | luismario-wize |
 | Alfredo Arrieta | alfredo.arrieta@wizeline.com | mrarrieta |
 | Edgar Correa | edgar.correa@wizeline.com | ECorreaWize |
+| Baltazar Rodríguez | baltazar.rodriguez@wizeline.com | baltazarwz |
 
 | ID Empleado | Nombre                              | Mentor |
 | ----------: | :---------------------------------- | :-------------------------- |
@@ -124,7 +124,6 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAx
 
 - [Diego Parra Robayo](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)
 - [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
-- [Antonio Lopez Higuera](https://calendly.com/an-lopez/mentoria-1-1)
 - [Diego Medina Padilla](https://calendly.com/diego-medina-2/baz-mentoria-1-1)
 - [Juana Cecilia Dávila Barajas](https://calendly.com/juana-cecilia-davila/baz-mentoria-1-1)
 - [Mario Salas Cardenas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
