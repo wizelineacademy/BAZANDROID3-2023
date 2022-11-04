@@ -31,4 +31,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 2 Nov - MVVM](https://drive.google.com/file/d/12PJVaqwfq3gbqfljgwtFVGZ028lhsAo9/view?usp=sharing)
 - 📺 [Grabacion Miércoles 2 Nov](https://drive.google.com/file/d/1rggkUO1p8pjf59MRmIw0wJP7cyc0dWBb/view?usp=share_link)
 - [Viernes 4 Nov - Viewbinding vs Databinding](https://drive.google.com/file/d/1Q0oJr6k1PQFdnmwYppPLjuamozdrfU8n/view?usp=sharing)
-- 📺 [Grabacion Viernes 4 Nov]()
+- 📺 [Grabacion Viernes 4 Nov](https://drive.google.com/file/d/1HzNTyzL-g2CWhDqXQ-fIYl4DxFWpV6ZH/view?usp=sharing)
