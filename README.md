@@ -112,8 +112,8 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | 1029731     | Lorena Alcántara                    | Alfredo Arrieta             |
 | 1027774     | Luis Esteban Fernández              | Edgar Correa                |
 | 1060891     | Óscar Sánchez                       | Edgar Correa                |
-| 1053689     | Stuart García                       | Antonio López               |
-| 0000000     | Jaime García                        | Antonio López               |
+| 1053689     | Stuart García                       | Baltazar Rodríguez          |
+| 0000000     | Jaime García                        | Baltazar Rodríguez          |
 
 
 # V. Agenda tu mentoria 📆
@@ -130,6 +130,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAx
 - [Mario Salas Cardenas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
 - [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1)
 - [Edgar Correa](https://calendly.com/edgar-correa/baz-mentoria-1-1)
+- [Baltazar Rodríguez](https://calendly.com/baltazar-rodriguez/baz-mentoria-1-1?month=2022-11)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
