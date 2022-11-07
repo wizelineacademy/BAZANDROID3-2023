@@ -5,29 +5,29 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 
 [Liga Acceso Telegram grupal](https://t.me/+Ly8UcGVIcUoxODBh) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](https://github.com/wizelineacademy/BAZANDROID2-2022/blob/main/AndroidGpo2.png)
+![Calendario]()
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09) en caso que no puedan presentarse
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/82602258100?pwd=NHNwQmZ4aXpMMGpaVHJKRS95UnU4QT09)
+- Miércoles y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/88941020491) en caso que no puedan presentarse
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/88941020491)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram, con copia a Lluvia Martínez lluvia.martinez@gesech.com y a tu líder de gremio. 
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
-- Lunes y Miércoles: 4pm en oficinas de Wizeline
+- Miércoles y Jueves: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
 - Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final Wizeline (Capstone Project)**
 - Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
@@ -51,8 +51,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    1. [Principios SOLID](/3/Principios%20SOLID%20)
    2. [Introducción a Android Studio](/3/Android%20Studio)
    3. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
-   
-  
+    
 ### Semana 4
    1. Room
    2. [Mobile App Design: MVVM](/4/MVVM)
@@ -79,7 +78,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 - Para poder presentar tu proyecto final, debes contar con un **mínimo de 6 mentorías on-demand**.
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
 
-[Aquí](https://github.com/wizelineacademy/baz-android-course) encontrarás las instrucciones para completar tu proyecto final.
+[Aquí]() encontrarás las instrucciones para completar tu proyecto final.
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
@@ -98,29 +97,29 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 | ID Empleado | Nombre                              | Mentor |
 | ----------: | :---------------------------------- | :-------------------------- |
-| 1053064     | Alan Rosas                          | Diego Parra                 |
-| 1034475     | Aldo Cortés                         | Diego Parra                 |
-| 1058705     | Antonio Villegas                    | Fabián Jiménez              |
-| 1068181     | Cleydi González                     | Fabián Jiménez              |
-| 1029736     | David de Jesús Vázquez              | Diego Medina                |
-| 1031615     | Edwin Rueda                         | Diego Medina                |
-| 1039104     | Francisco García                    | Cecilia Dávila              |
-| 1037219     | Gabriel Morales                     | Cecilia Dávila              |
-| 958879      | Joaquín Cárdenas                    | Mario Salas                 |
-| 1068734     | José Flores                         | Mario Salas                 |
-| 1027365     | Josué Fuentes                       | Alfredo Arrieta             |
-| 1029731     | Lorena Alcántara                    | Alfredo Arrieta             |
-| 1027774     | Luis Esteban Fernández              | Edgar Correa                |
-| 1060891     | Óscar Sánchez                       | Edgar Correa                |
-| 1053689     | Stuart García                       | Baltazar Rodríguez          |
-| 0000000     | Jaime García                        | Baltazar Rodríguez          |
+|     |                          | Diego Parra                 |
+|     |                         | Diego Parra                 |
+|      |                     | Fabián Jiménez              |
+|      |                    | Fabián Jiménez              |
+|      |              | Diego Medina                |
+|     |                          | Diego Medina                |
+|      |                     | Cecilia Dávila              |
+|     |                      | Cecilia Dávila              |
+|      |                    | Mario Salas                 |
+|    |                         | Mario Salas                 |
+|      |                      | Alfredo Arrieta             |
+|      |                     | Alfredo Arrieta             |
+|     |               | Edgar Correa                |
+|      |                        | Edgar Correa                |
+|     |                       | Baltazar Rodríguez          |
+|     |                       | Baltazar Rodríguez          |
 
 
 # V. Agenda tu mentoria 📆
-Si deseas tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
+Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/y5Ux4vkYxAxWaE1BA) al final de tu mentoría.
+Recuerda llenar el [Formato de Retroalimentación]() al final de tu mentoría.
 
 - [Diego Parra Robayo](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)
 - [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
