@@ -54,7 +54,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    
   
 ### Semana 4
-   1. 
+   1. Room
    2. [Mobile App Design: MVVM](/4/MVVM)
    3. [Viewbinding vs Databinding](/4/ViewBindingVsDataBinding)
 
