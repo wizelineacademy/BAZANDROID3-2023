@@ -3,7 +3,7 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de entrenamiento.
 
-[Liga Acceso Telegram grupal](https://t.me/+rGJl8dmWK0tmNWVh) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
+[Liga Acceso Telegram grupal](https://t.me/+c1wzbP4_A6UyOWUx) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 ![Calendario Bloque 3](https://github.com/wizelineacademy/BAZANDROID3-2023/blob/main/Calendario%20Bloque%203.png)
 
