@@ -20,7 +20,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 3
 - [Martes 7 Feb - Principios SOLID]()
 - 📺 [Grabacion Martes 7 Feb]()
-- [Miércoles 8 Feb* - Manejo de Git]()
+- [Miércoles 8 Feb/EN LÍNEA - Manejo de Git]()
 - 📺 [Grabacion Miércoles 8 Feb]()
 - [Viernes 10 Feb - Pruebas Unitarias]()
 - 📺 [Grabacion Viernes 10 Feb]()
