@@ -88,7 +88,7 @@ Selecciona la liga de Calendly de tu mentor asignado, te abrirá su calendario c
 
 Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes seleccionar a cualquier otro mentor con base en su disponibilidad:
 
-Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeCXGPXr3HA)** al final de cada una de tus mentorías.
+Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeCXGPXr3HA)** al final de **cada una** de tus mentorías.
 
 ### Asignacion Mentores
 
