@@ -82,6 +82,12 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
+# V. Agenda tu mentoria 📆
+Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
+
+Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/6uJwZ6HeCXGPXr3HA) al final de tu mentoría.
+
 ### Asignacion Mentores
 
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
@@ -100,16 +106,6 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 |   948244    |    ELIZABETH PEREZ VASQUEZ          | [Iván Espitia]()            | [Iván Espitia]()           | 
 
 
-# V. Agenda tu mentoria 📆
-Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
-
-Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/6uJwZ6HeCXGPXr3HA) al final de tu mentoría.
-
-- [Diego Medina Padilla](https://calendly.com/diego-medina-2/baz-mentoria-1-1)
-- [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1)
-- [Baltazar Rodríguez](https://calendly.com/baltazar-rodriguez/baz-mentoria-1-1?month=2022-11)
-- [Edgar Correa](https://calendly.com/edgar-correa/baz-mentoria-1-1)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
