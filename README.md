@@ -91,24 +91,20 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 | Baltazar Rodríguez | baltazar.rodriguez@wizeline.com | baltazarwz |
 | Edgar Correa | edgar.correa@wizeline.com | ECorreaWize |
 
-| ID Empleado | Nombre                              | Mentor |
-| ----------: | :---------------------------------- | :-------------------------- |
-|     |                          | Diego Parra                 |
-|     |                         | Diego Parra                 |
-|      |                     | Fabián Jiménez              |
-|      |                    | Fabián Jiménez              |
-|      |              | Diego Medina                |
-|     |                          | Diego Medina                |
-|      |                     | Cecilia Dávila              |
-|     |                      | Cecilia Dávila              |
-|      |                    | Mario Salas                 |
-|    |                         | Mario Salas                 |
-|      |                      | Alfredo Arrieta             |
-|      |                     | Alfredo Arrieta             |
-|     |               | Edgar Correa                |
-|      |                        | Edgar Correa                |
-|     |                       | Baltazar Rodríguez          |
-|     |                       | Baltazar Rodríguez          |
+| ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
+| ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
+|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
+|   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
+|   1031581   |    LUIS DANIEL LOPEZ ARIAS          | [Ricardo Sarabia]()         | [Ricardo Sarabia]()        |
+|   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia]()         | [Ricardo Sarabia]()        |
+|   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Diego Parra]()             | [Diego Parra]()            |
+|   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra]()             | [Diego Parra]()            |
+|   68979     |    OMAR MORALES ALANIS              | [Carlos Frías]()            | [Carlos Frías]()           |
+|   1046623   |    HECTOR SAMUEL PEREZ CASTRO       | [Carlos Frías]()            | [Carlos Frías]()           |
+|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Alejandro barranco]()      | [Alejandro barranco]()     |
+|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Alejandro barranco]()      | [Alejandro barranco]()     |
+|   961201.   |    CARLOS ALBERTO ARTEAGA LIRA      | [Andrés Bobadilla]()        | [Andrés Bobadilla]()       | 
+|   948244    |    ELIZABETH PEREZ VASQUEZ          | [Iván Espitia]()            | [Iván Espitia]()           | 
 
 
 # V. Agenda tu mentoria 📆
