@@ -84,13 +84,6 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 
 ### Asignacion Mentores
 
-| Nombre | Correo electrónico | Github |
-| ------ | ------------------ | ------ |
-| Diego Medina Padilla | diego.medina@wizeline.com | DiegoMedinaP |
-| Alfredo Arrieta | alfredo.arrieta@wizeline.com | mrarrieta |
-| Baltazar Rodríguez | baltazar.rodriguez@wizeline.com | baltazarwz |
-| Edgar Correa | edgar.correa@wizeline.com | ECorreaWize |
-
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
 |   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
