@@ -97,11 +97,11 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 |   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
 |   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
 |   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
-|   1068732   |    ERNESTO LOMABARDINI ELISEO       | Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
+|   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
 |   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)|
 |   68979     |    OMAR MORALES ALANIS              | [Carlos Frías](https://calendly.com/carlos-frias-mercado/baz-mentoria-1-1)| [Carlos Frías](https://github.com/cefmmaku)|
 |   1046623   |    HECTOR SAMUEL PEREZ CASTRO       | [Alejandro barranco](https://calendly.com/emmanuel-barranco/baz-mentoria-1-1)| [Alejandro barranco](https://github.com/em4n0101)|
-|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | | [Andrés Bobadilla](https://calendly.com/andres-bobadilla/baz-mentoria-1-1)| [Andrés Bobadilla](https://github.com/andrescoulson)| 
+|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Andrés Bobadilla](https://calendly.com/andres-bobadilla/baz-mentoria-1-1)| [Andrés Bobadilla](https://github.com/andrescoulson)| 
 |   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Iván Espitia](https://calendly.com/ivan-espitia/baz-mentoria-1-1)| [Iván Espitia](https://github.com/ivanespitiac)| 
 |   961201.   |    CARLOS ALBERTO ARTEAGA LIRA      | [Julio Picazo](https://calendly.com/julio-picazo/baz-mentoria-1-1)| [Julio Picazo](https://github.com/PicazoBcWize)| 
 |   948244    |    ELIZABETH PEREZ VASQUEZ          | [Luis Mario Salas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)| [Luis Mario Salas](https://github.com/luismario-wize)| 
