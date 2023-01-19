@@ -96,16 +96,16 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
 |   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
 |   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
-|   1031581   |    LUIS DANIEL LOPEZ ARIAS          | [Ricardo Sarabia]()         | [Ricardo Sarabia]()        |
-|   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia]()         | [Ricardo Sarabia]()        |
-|   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Diego Parra]()             | [Diego Parra]()            |
-|   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra]()             | [Diego Parra]()            |
+|   1031581   |    LUIS DANIEL LOPEZ ARIAS          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
+|   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
+|   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)            |
+|   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)            |
 |   68979     |    OMAR MORALES ALANIS              | [Carlos Frías]()            | [Carlos Frías]()           |
 |   1046623   |    HECTOR SAMUEL PEREZ CASTRO       | [Carlos Frías]()            | [Carlos Frías]()           |
-|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Alejandro barranco]()      | [Alejandro barranco]()     |
-|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Alejandro barranco]()      | [Alejandro barranco]()     |
+|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Alejandro barranco]()      | [Alejandro barranco](https://github.com/em4n0101)|
+|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Alejandro barranco]()      | [Alejandro barranco](https://github.com/em4n0101)|
 |   961201.   |    CARLOS ALBERTO ARTEAGA LIRA      | [Andrés Bobadilla]()        | [Andrés Bobadilla]()       | 
-|   948244    |    ELIZABETH PEREZ VASQUEZ          | [Iván Espitia]()            | [Iván Espitia]()           | 
+|   948244    |    ELIZABETH PEREZ VASQUEZ          | [Iván Espitia](https://calendly.com/ivan-espitia/baz-mentoria-1-1)| [Iván Espitia](https://github.com/ivanespitiac)| 
 
 
 
