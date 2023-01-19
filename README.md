@@ -102,8 +102,8 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 |   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)            |
 |   68979     |    OMAR MORALES ALANIS              | [Carlos Frías]()            | [Carlos Frías]()           |
 |   1046623   |    HECTOR SAMUEL PEREZ CASTRO       | [Carlos Frías]()            | [Carlos Frías]()           |
-|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Alejandro barranco]()      | [Alejandro barranco](https://github.com/em4n0101)|
-|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Alejandro barranco]()      | [Alejandro barranco](https://github.com/em4n0101)|
+|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Alejandro barranco](https://calendly.com/emmanuel-barranco/baz-mentoria-1-1)| [Alejandro barranco](https://github.com/em4n0101)|
+|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Alejandro barranco](https://calendly.com/emmanuel-barranco/baz-mentoria-1-1)| [Alejandro barranco](https://github.com/em4n0101)|
 |   961201.   |    CARLOS ALBERTO ARTEAGA LIRA      | [Andrés Bobadilla]()        | [Andrés Bobadilla]()       | 
 |   948244    |    ELIZABETH PEREZ VASQUEZ          | [Iván Espitia](https://calendly.com/ivan-espitia/baz-mentoria-1-1)| [Iván Espitia](https://github.com/ivanespitiac)| 
 
