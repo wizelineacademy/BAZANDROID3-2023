@@ -94,7 +94,7 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
-|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
+|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta*]()         | [Alfredo Arrieta*]()        |
 |   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
 |   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
 |   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
