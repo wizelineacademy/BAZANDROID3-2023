@@ -96,8 +96,8 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
-|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta*]()         | [Alfredo Arrieta*]()        |
-|   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta]()         | [Alfredo Arrieta]()        |
+|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1]| [Alfredo Arrieta](https://github.com/mrarrieta)        |
+|   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1) | [Alfredo Arrieta](https://github.com/mrarrieta)        |
 |   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
 |   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
 |   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)|
