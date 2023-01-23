@@ -118,4 +118,4 @@ Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeC
 # VII. Contacto DSA
 Si tienes alguna duda sobre el programa, logística, accesos, etc., por favor contacta al equipo de Wizeline Academy
 
-:email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
+:email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)m
