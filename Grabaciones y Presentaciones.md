@@ -2,11 +2,11 @@
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
-- [Lunes 23 Ene - Kotlin basics I]()
-- 📺 [Grabacion Lunes 23 Ene]()
-- [Martes 24 Ene - Kotlin basics II]()
+- [Lunes 23 Ene - Kotlin basics I](https://drive.google.com/file/d/1J2K0kyHHvHGCJwZ71TiNBkDlGxubSQNJ/view?usp=sharing)
+- 📺 [Grabacion Lunes 23 Ene](https://drive.google.com/file/d/1II9D33DCMt-vyGLD3EF0dK1XuXPoWcVw/view?usp=share_link)
+- [Martes 24 Ene - Kotlin basics II](https://drive.google.com/file/d/1h7luLrWn_bcqmzTTthPa91qfcz3Qzxl9/view?usp=sharing)
 - 📺 [Grabacion Martes 24 Ene]()
-- [Viernes 27 Ene - Kotlin basics III]()
+- [Viernes 27 Ene - Kotlin basics III](https://drive.google.com/file/d/1AbeGLIZeRZ9m4R_WQhOdONhgqOt65R2O/view?usp=sharing)
 - 📺 [Grabacion Viernes 27 Ene]()
 
 # Semana 2
