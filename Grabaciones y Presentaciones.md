@@ -7,7 +7,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 24 Ene - Kotlin basics II](https://drive.google.com/file/d/1h7luLrWn_bcqmzTTthPa91qfcz3Qzxl9/view?usp=sharing)
 - 📺 [Grabacion Martes 24 Ene](https://drive.google.com/file/d/1X_kGjzUNQDQ4cjbCzc3vjqpNdbfdSAfJ/view?usp=sharing)
 - [Viernes 27 Ene - Kotlin basics III](https://drive.google.com/file/d/1AbeGLIZeRZ9m4R_WQhOdONhgqOt65R2O/view?usp=sharing)
-- 📺 [Grabacion Viernes 27 Ene]()
+- 📺 [Grabacion Viernes 27 Ene](https://drive.google.com/file/d/1Rv0Tv9GtcMpo9zd_8l-T2y8GGrQWLVym/view?usp=sharing)
 
 # Semana 2
 - [Lunes 30 Ene - Object oriented programming I](https://drive.google.com/file/d/1wZA-hdZ0oazr25JECEe1EH4LQ6HNrhEb/view?usp=sharing)
