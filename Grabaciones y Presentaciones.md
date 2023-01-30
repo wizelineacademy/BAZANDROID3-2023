@@ -5,7 +5,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 23 Ene - Kotlin basics I](https://drive.google.com/file/d/1J2K0kyHHvHGCJwZ71TiNBkDlGxubSQNJ/view?usp=sharing)
 - 📺 [Grabacion Lunes 23 Ene](https://drive.google.com/file/d/16bF4-U9OKSekXuRIv-oSQhUJx35zfes-/view?usp=sharing)
 - [Martes 24 Ene - Kotlin basics II](https://drive.google.com/file/d/1h7luLrWn_bcqmzTTthPa91qfcz3Qzxl9/view?usp=sharing)
-- 📺 [Grabacion Martes 24 Ene](https://drive.google.com/file/d/1Tf3RS-M1DlPiJSlO-xt7L9L5ubdTJd1u/view?usp=sharing)
+- 📺 [Grabacion Martes 24 Ene](https://drive.google.com/file/d/1X_kGjzUNQDQ4cjbCzc3vjqpNdbfdSAfJ/view?usp=sharing)
 - [Viernes 27 Ene - Kotlin basics III](https://drive.google.com/file/d/1AbeGLIZeRZ9m4R_WQhOdONhgqOt65R2O/view?usp=sharing)
 - 📺 [Grabacion Viernes 27 Ene]()
 
