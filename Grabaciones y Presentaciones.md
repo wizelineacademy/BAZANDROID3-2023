@@ -11,7 +11,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 2
 - [Lunes 30 Ene - Object oriented programming I](https://drive.google.com/file/d/1wZA-hdZ0oazr25JECEe1EH4LQ6HNrhEb/view?usp=sharing)
-- 📺 [Grabacion Lunes 30 Ene]()
+- 📺 [Grabacion Lunes 30 Ene](https://drive.google.com/file/d/1jjoRBn3Xc2OQ7aDP-Xtr0VzAfbZIilqc/view?usp=sharing)
 - [Martes 31 Ene - Object oriented programming II](https://drive.google.com/file/d/1JQGh6XPTWMfaubgkL6uoHSgrXYVc9ouv/view?usp=sharing)
 - 📺 [Grabacion Martes 31 Ene]()
 - [Viernes 3 Feb - Object oriented programming III](https://drive.google.com/file/d/1MEZX21c74xgomd6oXP6SsRJ8-iGGdK44/view?usp=sharing)
