@@ -15,7 +15,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 31 Ene - Object oriented programming II](https://drive.google.com/file/d/1JQGh6XPTWMfaubgkL6uoHSgrXYVc9ouv/view?usp=sharing)
 - 📺 [Grabacion Martes 31 Ene](https://drive.google.com/file/d/1Ucfb-68Qr6pV1GeNLQwZmQ5KqbB6fEAn/view?usp=sharing)
 - [Viernes 3 Feb - Object oriented programming III](https://drive.google.com/file/d/1MEZX21c74xgomd6oXP6SsRJ8-iGGdK44/view?usp=sharing)
-- 📺 [Grabacion Viernes 3 Feb]()
+- 📺 [Grabacion Viernes 3 Feb](https://drive.google.com/file/d/1pcGgMFMHc30FCp7wjTIgBsFNUi9Z7yZ5/view?usp=sharing)
 
 # Semana 3
 - [Martes 7 Feb - Manejo de Git](https://drive.google.com/file/d/1fp-uQSkTUo0ZV9uvL7gSAquxwCPfbyjo/view?usp=sharing)
