@@ -18,11 +18,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 3 Feb]()
 
 # Semana 3
-- [Martes 7 Feb - Principios SOLID](https://drive.google.com/file/d/1b0LEeStkhBPnlxk0v_5kHOGAK4SxkTaw/view?usp=share_link)
+- [Martes 7 Feb - Manejo de Git](https://drive.google.com/file/d/1fp-uQSkTUo0ZV9uvL7gSAquxwCPfbyjo/view?usp=sharing)
 - 📺 [Grabacion Martes 7 Feb]()
-- [Miércoles 8 Feb/EN LÍNEA - Manejo de Git](https://drive.google.com/file/d/1lbjS3UsCHd0AJjWyRAM8578OGpQxDrL-/view?usp=sharing)
+- [Miércoles 8 Feb/EN LÍNEA - Principios Solid](https://drive.google.com/file/d/14bHJ5lOb2TZqYmdzOsn5C5zYzJ1c-4xr/view?usp=sharing)
 - 📺 [Grabacion Miércoles 8 Feb]()
-- [Viernes 10 Feb - Pruebas Unitarias](https://drive.google.com/file/d/18o4XEXtb4J5E351GlHn-hg5CcrBQdDMC/view?usp=sharing)
+- [Viernes 10 Feb - Pruebas Unitarias](https://drive.google.com/file/d/1ZEVaTG39xLHMlyVVFsja7nyDcoW1ovpY/view?usp=sharing)
 - 📺 [Grabacion Viernes 10 Feb]()
 
 # Semana 4
