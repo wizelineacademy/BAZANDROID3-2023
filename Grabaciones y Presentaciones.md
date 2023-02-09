@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 7 Feb - Manejo de Git](https://drive.google.com/file/d/1fp-uQSkTUo0ZV9uvL7gSAquxwCPfbyjo/view?usp=sharing)
 - 📺 [Grabacion Martes 7 Feb](https://drive.google.com/file/d/1qrgV3MFNIjZy1f0ypU5M2kC16eru30lH/view?usp=sharing)
 - [Miércoles 8 Feb/EN LÍNEA - Principios Solid](https://drive.google.com/file/d/14bHJ5lOb2TZqYmdzOsn5C5zYzJ1c-4xr/view?usp=sharing)
-- 📺 [Grabacion Miércoles 8 Feb]()
+- 📺 [Grabacion Miércoles 8 Feb](https://drive.google.com/file/d/1nlfdKAsrF5A2EDobkOwjnPXT6cz4Xoeu/view?usp=sharing)
 - [Viernes 10 Feb - Pruebas Unitarias](https://drive.google.com/file/d/1ZEVaTG39xLHMlyVVFsja7nyDcoW1ovpY/view?usp=sharing)
 - 📺 [Grabacion Viernes 10 Feb]()
 
