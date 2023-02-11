@@ -26,11 +26,12 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 10 Feb](https://drive.google.com/file/d/1jPlBkhRRCgAJkaMSdrj-AxB6jEhY3ED-/view?usp=sharing)
 
 # Semana 4
-- [Lunes 13 Feb - Consumo de Servicios con Retrofit]()
+- [Lunes 13 Feb - Retrofit](https://drive.google.com/file/d/167M1sOYWuQef8wDq3leo-41u_LWIJVGc/view?usp=sharing)
 - 📺 [Grabacion Lunes 13 Feb]()
-- [Martes 14 Feb - Mobile App Design: MVVM]()
+- [Martes 14 Feb - MVVM](https://drive.google.com/file/d/1ciqReRE_aWk2VilfR7Qef3NbfJj-l2Eu/view?usp=sharing)
+- [Martes 14 Feb - ViewBinding and Databinding](https://drive.google.com/file/d/18bGQZBSTjGg9zfiRY0lmcGTg3XK8dznM/view?usp=sharing)
 - 📺 [Grabacion Jueves Martes 14 Feb]()
-- [Viernes 17 Feb - Viewbinding vs Databinding]()
+- [Viernes 17 Feb - Room](https://drive.google.com/file/d/10XkHV6WoIelkuhbwCx7f_NopUsoUd-sr/view?usp=sharing)
 - 📺 [Grabacion Viernes 17 Feb]()
 
 # Semana 5
