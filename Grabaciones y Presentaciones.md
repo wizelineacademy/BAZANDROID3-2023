@@ -23,7 +23,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 8 Feb/EN LÍNEA - Principios Solid](https://drive.google.com/file/d/14bHJ5lOb2TZqYmdzOsn5C5zYzJ1c-4xr/view?usp=sharing)
 - 📺 [Grabacion Miércoles 8 Feb](https://drive.google.com/file/d/1nlfdKAsrF5A2EDobkOwjnPXT6cz4Xoeu/view?usp=sharing)
 - [Viernes 10 Feb - Pruebas Unitarias](https://drive.google.com/file/d/1ZEVaTG39xLHMlyVVFsja7nyDcoW1ovpY/view?usp=sharing)
-- 📺 [Grabacion Viernes 10 Feb]()
+- 📺 [Grabacion Viernes 10 Feb](https://drive.google.com/file/d/1jPlBkhRRCgAJkaMSdrj-AxB6jEhY3ED-/view?usp=sharing)
 
 # Semana 4
 - [Lunes 13 Feb - Consumo de Servicios con Retrofit]()
