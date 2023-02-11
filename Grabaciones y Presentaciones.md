@@ -30,7 +30,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Lunes 13 Feb]()
 - [Martes 14 Feb - MVVM](https://drive.google.com/file/d/1ciqReRE_aWk2VilfR7Qef3NbfJj-l2Eu/view?usp=sharing)
 - [Martes 14 Feb - ViewBinding and Databinding](https://drive.google.com/file/d/18bGQZBSTjGg9zfiRY0lmcGTg3XK8dznM/view?usp=sharing)
-- 📺 [Grabacion Jueves Martes 14 Feb]()
+- 📺 [Grabacion Martes 14 Feb]()
 - [Viernes 17 Feb - Room](https://drive.google.com/file/d/10XkHV6WoIelkuhbwCx7f_NopUsoUd-sr/view?usp=sharing)
 - 📺 [Grabacion Viernes 17 Feb]()
 
