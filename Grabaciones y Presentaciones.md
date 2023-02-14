@@ -27,7 +27,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 4
 - [Lunes 13 Feb - Retrofit](https://drive.google.com/file/d/167M1sOYWuQef8wDq3leo-41u_LWIJVGc/view?usp=sharing)
-- 📺 [Grabacion Lunes 13 Feb]()
+- 📺 [Grabacion Lunes 13 Feb](https://drive.google.com/file/d/1Jxk84gnlpxlRSI8Yk7mKM7aAdLos9UIT/view?usp=sharing)
 - [Martes 14 Feb - MVVM](https://drive.google.com/file/d/1ciqReRE_aWk2VilfR7Qef3NbfJj-l2Eu/view?usp=sharing)
 - [Martes 14 Feb - ViewBinding and Databinding](https://drive.google.com/file/d/18bGQZBSTjGg9zfiRY0lmcGTg3XK8dznM/view?usp=sharing)
 - 📺 [Grabacion Martes 14 Feb]()
