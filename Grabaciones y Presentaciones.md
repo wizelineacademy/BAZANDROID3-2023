@@ -32,7 +32,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 14 Feb - ViewBinding and Databinding](https://drive.google.com/file/d/18bGQZBSTjGg9zfiRY0lmcGTg3XK8dznM/view?usp=sharing)
 - 📺 [Grabacion Martes 14 Feb](https://drive.google.com/file/d/1JvERekb6SuPnf6jn2QIjETSqEr4SKE3i/view?usp=sharing)
 - [Viernes 17 Feb - Room](https://drive.google.com/file/d/10XkHV6WoIelkuhbwCx7f_NopUsoUd-sr/view?usp=sharing)
-- 📺 [Grabacion Viernes 17 Feb]()
+- 📺 [Grabacion Viernes 17 Feb](https://drive.google.com/file/d/1L_ja9Sq6cz5ZdbcTKkz2wbUi_EsE1Mmp/view?usp=sharing)
 
 # Semana 5
 - [Lunes 20 Feb - Kotlin coroutines I](https://drive.google.com/file/d/19vL_YRNSzHNZ8N6jYVK5itr-gk3LZTt9/view?usp=sharing)
