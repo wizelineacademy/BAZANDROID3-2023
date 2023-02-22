@@ -38,7 +38,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 20 Feb - Kotlin coroutines I](https://drive.google.com/file/d/19vL_YRNSzHNZ8N6jYVK5itr-gk3LZTt9/view?usp=sharing)
 - 📺 [Grabacion Lunes 20 Feb](https://drive.google.com/file/d/1-3PZGb5DZPSgCwU3WBpHRKrDirwz2vDS/view?usp=sharing)
 - [Martes 21 Feb - Kotlin coroutines II](https://drive.google.com/file/d/1u4YrvSDG98D0Ot93s2aoxcU_sse29_rG/view?usp=sharing)
-- 📺 [Grabacion Martes 21 Feb]()
+- 📺 [Grabacion Martes 21 Feb](https://drive.google.com/file/d/1s934-0rZCro7ffCBhoEwfXOxtU4s8_hL/view?usp=sharing)
 - [Viernes 24 Feb - Kotlin coroutines III](https://drive.google.com/file/d/1cy-ttdttyG1aIi4FmWHdJ_MTMChsU8j4/view?usp=sharing)
 - 📺 [Grabacion Viernes 24 Feb]()
 
